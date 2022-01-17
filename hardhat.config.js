@@ -15,5 +15,5 @@ module.exports = {
         },
         mainnet: {}
     },
-    solidity: "0.8.9",
+    solidity: "0.8.11",
 };
